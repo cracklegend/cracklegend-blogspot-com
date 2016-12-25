@@ -138,17 +138,8 @@ table.hptable {
        -o-transition: all 1666ms;
           transition: all 1666ms;
 }
-@font-face {
-  font-family: Gruppo;
-  src: url('https://fonts.gstatic.com/s/gruppo/v7/EoL765IZSvUoJyAsw4h7ow.woff2');
-}
 h1 {
   font-family: 'Gruppo';
-}
-
-@font-face {
-  font-family: bname;
-  src: url('https://fonts.gstatic.com/s/unifrakturmaguntia/v7/7KWy3ymCVR_xfAvvcIXm3wh3zWhftzIdHBsuU0JwdCQ.woff2');
 }
 blog-name {
   font-family: &#39;UnifrakturMaguntia&#39; !important;
