@@ -334,4 +334,3 @@ li#view-count.view-count:before {
 <div class='footer' id='footer'>
 Copyright © 2016 破解傳說，Crack Legend，\極\，UltimateUser，UU。
 </div>`;
-$('body').append(cl_body);
