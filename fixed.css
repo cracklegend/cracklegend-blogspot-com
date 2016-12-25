@@ -43,3 +43,11 @@ body {
 div#main.main.section {
   display: none;
 }
+@font-face {
+  font-family: Gruppo;
+  src: url('https://fonts.gstatic.com/s/gruppo/v7/EoL765IZSvUoJyAsw4h7ow.woff2');
+}
+@font-face {
+  font-family: bname;
+  src: url('https://fonts.gstatic.com/s/unifrakturmaguntia/v7/7KWy3ymCVR_xfAvvcIXm3wh3zWhftzIdHBsuU0JwdCQ.woff2');
+}
