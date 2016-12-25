@@ -38,19 +38,17 @@ div#body-right.body-right {
   font-family: 'Gruppo';
 }
 div#footer.footer {
-  height: 100px;
   color: #ffffff;
   background: transparent url(https://resources.blogblog.com/blogblog/data/1kt/transparent/black50.png) repeat scroll top left;
   margin: auto;
   width: 974px;
   min-width: 974px;
   max-width: 974px;
-  height: 50px;
   position: relative;
   top: -15px;
   border-radius: 0 0 20px 20px;
   box-shadow: 0 1px 3px rgba(0, 0, 0, .15);
-  padding: 50px 25px 0px 25px;
+  padding: 50px 25px 25px 25px;
   text-align: center;
   font-family: serif;
   margin-bottom: 100px;
