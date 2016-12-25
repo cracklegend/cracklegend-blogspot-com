@@ -69,19 +69,19 @@ div#post-title.post-title h1 {
   padding-top: 15px;
   margin-bottom: 30px;
   padding-bottom: 15px;
-  background-color: #E7E7FF;
+  background-color: #F3F3FF;
   border-top: 1px solid #D7D7FF;
   border-bottom: 1px solid #D7D7FF;
 }
 table.hptable {
     border-collapse: collapse;
     border: 1px solid #D7D7FF !important;
-    background-color: #E7E7FF;
+    background-color: #F3F3FF;
     opacity: 1;
     margin: 15px;
 }
 .hptable tr:hover, .hptable tr:hover td {
-    background-color: #E5E5FF;
+    background-color: #E7E7FF;
 }
 .left {
     vertical-align: middle;
@@ -111,7 +111,7 @@ table.hptable {
     content: '';
     position: absolute;
     top: 0; right: 0;
-    border-top: 11px solid #E7E7FF;
+    border-top: 11px solid #F3F3FF;
     border-left: 11px solid #E0E0FF;
     width: 0;
 }
@@ -119,7 +119,7 @@ table.hptable {
     content: '';
     position: absolute;
     bottom: 0; right: 0;
-    border-bottom: 11px solid #E7E7FF;
+    border-bottom: 11px solid #F3F3FF;
     border-left: 11px solid #E0E0FF;
     width: 0;
 }
@@ -127,7 +127,7 @@ table.hptable {
     content: '';
     position: absolute;
     top: 0; right: 0;
-    border-top: 11px solid #E5E5FF;
+    border-top: 11px solid #E7E7FF;
     border-left: 11px solid #E0E0FF;
     width: 0;
 }
@@ -135,7 +135,7 @@ table.hptable {
     content: '';
     position: absolute;
     bottom: 0; right: 0;
-    border-bottom: 11px solid #E5E5FF;
+    border-bottom: 11px solid #E7E7FF;
     border-left: 11px solid #E0E0FF;
     width: 0;
 }
