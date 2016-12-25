@@ -300,9 +300,8 @@ div.sarea {
 }
 </style>
 <div style='margin-top: 15px; margin-bottom: 15px;'>
-<span style="font-size: large;"><b>◇ 搜尋此網誌 ◇</b></span><br/>
-<br/>
-<div class="sarea">
+<span style="font-size: large;"><b>◇ 搜尋此網誌 ◇</b></span>
+<div class="sarea" style='margin-top: 15px;'>
 <form id="sform">
 <input type="text" class="sbox" placeholder="寫點東西…" />&nbsp;&nbsp;
 <input type="submit" class="sbutton" value="搜尋" />
