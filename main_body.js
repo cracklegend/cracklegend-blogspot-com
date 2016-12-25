@@ -69,7 +69,7 @@ div#post-title.post-title h1 {
   padding-top: 15px;
   margin-bottom: 30px;
   padding-bottom: 15px;
-  background-color: #F3F3FF;
+  background-color: #E7E7FF;
   border-top: 1px solid #D7D7FF;
   border-bottom: 1px solid #D7D7FF;
 }
