@@ -15,3 +15,6 @@ $.fn.OneClickSelect = function() {
   });
 };
 $('kbd').OneClickSelect();
+$('kbd').mouseout(function() {
+  document.getSelection().removeAllRanges();
+});
