@@ -58,6 +58,10 @@ div#footer.footer {
 div#footer.footer span {
   font-size: x-large;
 }
+div#footer.footer a {
+  text-decoration: none;
+  color: #a3a3ff;
+}
 div#post-title.post-title h1 {
   padding-left: 15px;
   margin-top: 30px;
