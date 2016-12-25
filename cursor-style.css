@@ -1,9 +1,0 @@
-body {
-  cursor: default;
-}
-div#rotate, div.htdlb, div.creqb, div.smb {
-  cursor: help;
-}
-td.null.l1, td.null.l2, table.hptable, input.sbutton {
-  cursor: pointer;
-}
