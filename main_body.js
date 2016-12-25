@@ -53,8 +53,10 @@ div#footer.footer {
   padding: 50px 25px 0px 25px;
   text-align: center;
   font-family: serif;
-  font-size: x-large;
   margin-bottom: 100px;
+}
+div#footer.footer span {
+  font-size: x-large;
 }
 div#post-title.post-title h1 {
   padding-left: 15px;
@@ -332,5 +334,6 @@ li#view-count.view-count:before {
 </div>
 </div>
 <div class='footer' id='footer'>
-Copyright © 2016 破解傳說，Crack Legend，\極\，UltimateUser，UU。
+<span>Copyright © 2016 破解傳說，Crack Legend，&#92;極&#92;，UltimateUser，UU。</span><br/>
+Template 提供：<a href='https://www.blogger.com' target='_blank'>Blogger</a>。
 </div>`;
