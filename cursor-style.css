@@ -4,6 +4,6 @@ body {
 div.rotate, div.readmore, div.htdl, div.creq, div.sm {
   cursor: help;
 }
-table.exc.navmenuv2 table.exc.navmenuv2 td, table.hptable {
+td.null.l1, td.null.l2, table.hptable, input.sbutton {
   cursor: pointer;
 }
