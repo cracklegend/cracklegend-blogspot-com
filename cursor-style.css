@@ -1,7 +1,7 @@
 body {
   cursor: default;
 }
-div#rotate, div.sareab, div.htdlb, div.creqb, div.smb {
+div#rotate, div.htdlb, div.creqb, div.smb {
   cursor: help;
 }
 td.null.l1, td.null.l2, table.hptable, input.sbutton {
