@@ -186,3 +186,8 @@ $(window).resize(function(){
   var cl_navigation_menu_width = ( $('html').width() - 1024 ) / 2;
   $('table.navmenuwv2').animate({ marginLeft: cl_navigation_menu_width }, { queue: false, duration: 1000 });
 });
+var angle = 0;
+setInterval(function(){
+  angle += 360 / 360 / 5;
+  $('#rotate').rotate(angle);
+}, 1);
