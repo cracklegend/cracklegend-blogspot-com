@@ -335,3 +335,16 @@ li#view-count.view-count:before {
 Copyright © 2016 破解傳說，Crack Legend，\極\，UltimateUser，UU。
 </div>`;
 $('body').append(cl_body);
+var post_body_html = $('div.post-body.entry-content').html();
+if (typeof post_body_html == 'undefined') {
+  var data_post_title = 'HTTP ERROR 404 ‒ 找不到網頁';
+  var post_body_html = `<div style='
+    font-size: x-large;
+    margin: 30px;'>抱歉！ <span style="font-family: 'bname';">.: 破解傳說 :.</span> 找不到目前網頁。<br/>
+請嘗試進行<kbd>搜尋</kbd>或到 <a href='http://cracklegend.blogspot.com/'>原網誌</a> 查看。</div>
+<hr width='95%' />`;
+}
+$('div#post-body.post-body').append( post_body_html );
+if (typeof data_post_title !== 'undefined') {
+  $('div#post-title.post-title h1').html(data_post_title);
+}
