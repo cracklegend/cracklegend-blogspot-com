@@ -3,7 +3,6 @@ $('div.muri').each(function() {
   $(this).html('');
   $(this).append('<textarea readonly class=\'muri\'>' + temp + '</textarea>');
   $(this).append('<button class=\'muri\'><img src=\'https://i.imgur.com/cHD3ICw.png\' /></button>');
-  console.log(temp);
 });
 $('body').append('<div class=\'cmsg\'><kbd>已複製</kbd></div>');
 $('button.muri').on('click', function(e) {
@@ -28,4 +27,3 @@ $('textarea.muri').each(function() {
     'height': arrh[temp++]
   });
 });
-  console.log(temp);
