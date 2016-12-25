@@ -62,7 +62,7 @@ table.navmenuv2 div div div {
   text-shadow: 1px 1px 4px #6666FF, 2px 2px 8px #4747FF;
 }
 </style>
-<table class='exc navmenuwv2' style='margin-top: 15px; margin-bottom: 15px;'>
+<table class='exc navmenuwv2' style='margin-top: 15px; margin-bottom: 15px; position: relative; left: -2px;'>
   <tr>
     <td class='null rimg' rowspan='2'>
       <div id='rotate'><img alt='Crack Legend' height='128px' src='http://i.imgur.com/IvtMwTp.png' title='Crack Legend' width='128px' /></div>
