@@ -7,7 +7,7 @@ $('div.muri').each(function() {
 $('body').append('<div class=\'cmsg\'><kbd>已複製</kbd></div>');
 $('button.muri').on('click', function(e) {
   $('div.cmsg').css({
-    'top': e.pageY - $('div.cmsg').outerHeight() - 20,
+    'top': e.pageY - $('div.cmsg').outerHeight() - 10,
     'left': e.pageX - $('div.cmsg').outerWidth() / 2
   });
   $('div.cmsg').finish();
