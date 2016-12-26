@@ -21,7 +21,7 @@ div#body-left.body-left {
   position: relative;
   top: 15px;
   left: 15px;
-  min-height: 600px;
+  min-height: 700px;
 }
 div#body-right.body-right {
   background-color: rgba(255, 255, 255, 0.25);
