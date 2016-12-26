@@ -19,6 +19,7 @@ $('button.muri').on('click', function(e) {
 var temp = '';
 var arrh = $('textarea.muri').map(function() {
   temp = this.scrollHeight - 4;
+  console.log(temp);
   return temp;
 });
 temp = 0;
