@@ -149,7 +149,7 @@ h1 {
   font-family: 'Gruppo';
 }
 blog-name {
-  font-family: &#39;UnifrakturMaguntia&#39; !important;
+  font-family: 'bname' !important;
 }
 hr {
     border-left: 1px solid #C1C1FF !important;
